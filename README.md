@@ -6,12 +6,12 @@ A/B tests are very commonly performed by data analysts and data scientists. For 
 - Perhaps run the experiment longer to make their decision.
 
 The notebook is divided into the following sections:
-- [Introduction](#intro)
-- [Part I - Probability](#probability)
-- [Part II - A/B Test](#ab_test)
-- [Part III - Regression](#regression)
-- [Final Check](#finalcheck)
-- [Submission](#submission)
+- Introduction
+- Part I - Probability
+- Part II - A/B Test
+- Part III - Regression
+- Final Check
+- Submission
 
 Specific programming tasks are marked with a **ToDo** tag. 
 
